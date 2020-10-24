@@ -11,10 +11,14 @@
         crossorigin="anonymous"></script>
 
     <script>
+        files = ['6489.json', '2167.json', '2188.json', '768.json', '5067.json', '7099.json', '4932.json', '713.json', '3127.json', '6333.json', '7060.json', '2254.json', '6217.json', '4416.json', '5600.json', '2278.json', '1792.json', '7492.json', '5905.json', '6295.json', '4882.json', '5544.json', '3242.json', '6943.json', '4991.json', '6152.json', '2941.json', '95.json', '1402.json', '1906.json', '899.json', '7581.json', '2279.json', '5251.json', '1253.json', '5882.json', '2371.json', '5267.json', '5772.json', '4533.json', '6631.json', '4175.json', '7309.json', '745.json', '4335.json', '5573.json', '913.json', '2170.json', '840.json', '1829.json', '2585.json', '3510.json', '5978.json', '1311.json', '261.json', '2194.json', '3101.json', '7007.json', '4781.json', '2911.json', '7355.json', '6905.json', '5309.json', '1576.json', '5866.json', '543.json', '1171.json', '3459.json', '5974.json', '2989.json', '386.json', '2966.json', '3463.json', '3033.json', '2788.json', '646.json', '1274.json', '4563.json', '6733.json', '7122.json', '3835.json', '2818.json', '5324.json', '4523.json', '939.json', '5575.json', '1023.json', '3272.json', '1629.json', '6103.json', '4647.json', '2402.json', '7180.json', '3287.json', '3680.json', '1717.json', '2212.json', '5239.json', '2006.json', '4886.json', '218.json', '4828.json', '2657.json', '3787.json', '760.json', '7052.json', '263.json', '3457.json', '6602.json', '5491.json', '1333.json', '5370.json', '5720.json', '828.json', '7249.json', '4465.json', '4598.json', '3764.json', '7674.json', '6120.json', '1308.json', '6834.json', '1867.json', '5609.json', '4599.json', '7248.json', '3437.json', '3114.json', '5243.json', '4393.json', '6068.json', '1742.json', '6357.json', '4043.json', '5202.json', '1144.json', '521.json', '1797.json', '5150.json', '4468.json', '1806.json', '7481.json', '2007.json', '245.json', '838.json', '654.json', '4789.json', '1134.json', '3109.json', '6075.json', '793.json', '6034.json', '1339.json', '4838.json', '5638.json', '6297.json', '5141.json', '3715.json', '2153.json', '2578.json', '6612.json', '6595.json', '2186.json', '5585.json', '459.json', '6192.json', '4140.json', '3113.json', '6255.json', '376.json', '5750.json', '7556.json', '7055.json', '3153.json', '4946.json', '54.json', '5746.json', '570.json', '6795.json', '1729.json', '1800.json', '7254.json', '4090.json', '2021.json', '4399.json', '2758.json', '1877.json', '4376.json', '5208.json', '4730.json', '2060.json', '2963.json', '2277.json', '5418.json', '1908.json', '205.json', '356.json', '585.json', '3759.json', '1764.json'];
         function myFunction() {
-            draw = '';
-            $.get('/files/dave/', function (data) {
-                alert(data);
+            idx = Math.floor(Math.random() * 200);
+            draw = files[idx];
+            $.getJSON('/files/dave/' + draw, function (d) {
+                document.getElementById("first").innerHTML = "<h5>First track: <b>" + d['seed_song']['track_name'] + "</b> by <b>" + d['seed_song']['artist_name'] + "</b></h5>";
+                document.getElementById("second").innerHTML = "<h5>Second track: <b>" + d['song_dave']['track_name'] + "</b> by <b>" + d['song_dave']['artist_name'] + "</b></h5>";
+                document.getElementById("segue").innerHTML = "<i><h3>" + d['segue_dave'] + "</h3></i>";
             });
         }
         window.onload = myFunction;
