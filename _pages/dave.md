@@ -8,7 +8,7 @@ author_profile: true
 
 Musical tracks, or songs, stand as independent entities. Still, songs are connected by hidden links behind the bare audio wave.
 Dave is a Research prototype by Giovanni Gabbolini and Derek Bridge, and is designed to unveil such links, or *segues*.
-Segues are design to be Enjoyable, and are sometimes informative, and sometimes funny.
+Segues strive to be Enjoyable, and achieve so being sometimes informative, and sometimes funny.
 
 Play with Dave
 =====
