@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Please welcome Dave!"
-permalink: /
+permalink: /dave
 author_profile: true
 ---
 {% include base_path %}
