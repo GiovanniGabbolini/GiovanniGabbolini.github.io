@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a **PhD student** at the Insight Centre for Data Analytics, University College Cork.
+I'm a **PhD student** at University College Cork.
 I conduct research within the fields of **Recommender Systems** and **Music Information Retrieval**, supervised
 by prof. [Derek Bridge](http://www.cs.ucc.ie/~dgb/).
 
@@ -19,7 +19,7 @@ I have a **M.Sc.** in Computer Science and Engineering from Politecnico di Milan
 > Our paper was accepted in ACM Symposium of Applied Computing 2021! **On the instability of embeddings for recommender systems: the case of Matrix Factorization** [(Preprint)](files/NNMF_preprint.pdf)
 
 ## Projects
-- **Narratives and playlists**  Through the medium of music, playlists tell stories. Click [here](/projects#narratives) to see how we unleash the power of stories behind playlists.
+- **Narratives for Music Information Retrieval** Music tell stories. Click [here](/projects#narratives) to see how we unleash the power of narratives for Music Information Retrieval;
 - **Recommender systems and instability** Widely-used Matrix Factorization recommenders are unstable! Interested? Find out more [here](/projects#instability).
 
 And, **that's not it**! Browse all my projects [here](/projects#past).
