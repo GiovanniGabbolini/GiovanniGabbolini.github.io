@@ -16,11 +16,11 @@ I have a **M.Sc.** in Computer Science and Engineering from Politecnico di Milan
 
 # Research
 
-> Our paper was accepted in ACM Symposium of Applied Computing 2021! **On the instability of embeddings for recommender systems: the case of Matrix Factorization** [(Preprint)](files/NNMF_preprint.pdf)
+> Paper accepted at UMAP 2021! **Generating Interesting Song-to-Song Segues With Dave**
 
 ## Projects
-- **Narratives for Music Information Retrieval** Music tell stories. Click [here](/projects#narratives) to see how we unleash the power of narratives for Music Information Retrieval;
-- **Recommender systems and instability** Widely-used Matrix Factorization recommenders are unstable! Interested? Find out more [here](/projects#instability).
+- Narratives for Music Information Retrieval: [Click](/projects#narratives);
+- Recommender systems and instability: [Click](/projects#instability).
 
 And, **that's not it**! Browse all my projects [here](/projects#past).
 
