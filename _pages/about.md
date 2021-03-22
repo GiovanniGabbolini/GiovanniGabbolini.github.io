@@ -16,7 +16,7 @@ I have a **M.Sc.** in Computer Science and Engineering from Politecnico di Milan
 
 # Research
 
-> Paper accepted at UMAP 2021! **Generating Interesting Song-to-Song Segues With Dave**
+> Paper accepted at UMAP 2021! Giovanni Gabbolini, Derek Bridge: **Generating Interesting Song-to-Song Segues With Dave**
 
 ## Projects
 - Narratives for Music Information Retrieval: [Click](/projects#narratives);
