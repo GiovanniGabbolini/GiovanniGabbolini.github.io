@@ -16,7 +16,9 @@ I have a **M.Sc.** in Computer Science and Engineering from Politecnico di Milan
 
 # Research
 
-> Paper accepted at UMAP 2021! Giovanni Gabbolini, Derek Bridge: **Generating Interesting Song-to-Song Segues With Dave**
+> The paper **Generating Interesting Song-to-Song Segues With Dave**, authored by me and [Derek Bridge](http://www.cs.ucc.ie/~dgb/), have won the [James Chen Best Student Paper Award](https://www.um.org/awards/james-chen-best-student-paper-awards) at UMAP 2021!
+
+  > The research on segues of me and [Derek Bridge](http://www.cs.ucc.ie/~dgb/) has featured on the BBC Radio 6 [Radcliffe and Maconie Show](https://www.bbc.co.uk/programmes/b0100rp6)! [Listen back](files/live.mp3).
 
 ## Projects
 - Narratives for Music Information Retrieval: [Click](/projects#narratives);
@@ -24,6 +26,7 @@ I have a **M.Sc.** in Computer Science and Engineering from Politecnico di Milan
 
 And, **that's not it**! Browse all my projects [here](/projects#past).
 
-## Publications 
-- **Giovanni Gabbolini**, Edoardo D'Amico, Cesare Bernardis, Paolo Cremonesi: **On the instability of embeddings for recommender systems: the case of Matrix Factorization**, *Procs. of the 36th Annual ACM Symposium on Applied Computing*, 2021. (TO APPEAR, [Preprint](files/NNMF_preprint.pdf))
-- Edoardo D’Amico, **Giovanni Gabbolini**, Daniele Montesi, Matteo Moreschini, Federico Parroni, Federico Piccinini, Alberto Rossettini, Alessio Russo Introito, Cesare Bernardis, and Maurizio Ferrari Dacrema. 2019. **Leveraging laziness, Browsing-Pattern Aware Stacked Models for Sequential Accommodation Learning to Rank**, *Procs. of the ACM Recommender Systems Challenge 2019*, 2019.
+## Publications
+- **Giovanni Gabbolini** and Derek Bridge. 2021. Generating Interesting Song-to-Song Segues With Dave. In <i>Proceedings of the 29th ACM Conference on User Modeling, Adaptation and Personalization</i> (<i>UMAP '21</i>). DOI: https://doi.org/10.1145/3450613.3456819
+- **Giovanni Gabbolini**, Edoardo D'Amico, Cesare Bernardis, and Paolo Cremonesi. 2021. On the instability of embeddings for recommender systems: the case of matrix factorization. In <i>Proceedings of the 36th Annual ACM Symposium on Applied Computing</i> (<i>SAC '21</i>). DOI: https://doi.org/10.1145/3412841.3442011
+- Edoardo D'Amico, **Giovanni Gabbolini**, Daniele Montesi, Matteo Moreschini, Federico Parroni, Federico Piccinini, Alberto Rossettini, Alessio Russo Introito, Cesare Bernardis, and Maurizio Ferrari Dacrema. 2019. Leveraging laziness, browsing-pattern aware stacked models for sequential accommodation learning to rank. In <i>Proceedings of the Workshop on ACM Recommender Systems Challenge</i> (<i>RecSys Challenge '19</i>). DOI: https://doi.org/10.1145/3359555.3359563
