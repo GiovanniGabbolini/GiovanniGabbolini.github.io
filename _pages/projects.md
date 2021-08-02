@@ -38,6 +38,16 @@ For more datails:
 
 **[Source code](https://github.com/GiovanniGabbolini/dave)**
 
+### IPSim
+
+We use segues from Dave to build an interpretable and accurate similarity measure, called IPSim.
+
+For more details:
+
+> **Giovanni Gabbolini** and Derek Bridge. 2021. **An Interpretable Music Similarity Measure Based on Path Interestingness**, in Proc. of the 22nd Int. Society for Music Information Retrieval Conf. (<i>ISMIR ’21</i>).
+
+**[Source code](https://github.com/GiovanniGabbolini/ipsim)**
+
 <a name="instability"></a>
 ## • Recommender Systems and Instability
 In this project, jointly with Edoardo D'Amico (UCD) and the [RecSys@PoliMi](http://recsys.deib.polimi.it/) group, we show how the output of matrix factorization change when the initialization of embeddings change. We refer to this phenomenon as instability.
@@ -45,7 +55,7 @@ In this project, jointly with Edoardo D'Amico (UCD) and the [RecSys@PoliMi](http
 We introduce a new family of algorithms that generalize matrix factorizations. The new algorithms are more stable, and have better accuracy on the long-tail.
 
 This project was the subject of a paper and of my M.Sc thesis:
-> **Giovanni Gabbolini**, Edoardo D'Amico, Cesare Bernardis, Paolo Cremonesi: **On the instability of embeddings for recommender systems: the case of Matrix Factorization**, *Procs. of the 36th Annual ACM Symposium on Applied Computing*, 2021. (TO APPEAR, [Preprint](files/NNMF_preprint.pdf))
+> **Giovanni Gabbolini**, Edoardo D'Amico, Cesare Bernardis, and Paolo Cremonesi. 2021. On the instability of embeddings for recommender systems: the case of matrix factorization. In <i>Proceedings of the 36th Annual ACM Symposium on Applied Computing</i> (<i>SAC '21</i>). DOI: [https://doi.org/10.1145/3412841.3442011](https://doi.org/10.1145/3412841.3442011)
 
 > **Giovanni Gabbolini**, Edoardo D'Amico: **Exploiting the Long Tail Recommending Less of More, Nearest Neighbors Matrix Factorization**, PoliTesi ([link](http://hdl.handle.net/10589/152210))
 
