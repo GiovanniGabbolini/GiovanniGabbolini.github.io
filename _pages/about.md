@@ -3,38 +3,63 @@ permalink: /
 title: "About me"
 excerpt: "About me"
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
 
-I'm a **PhD student** at University College Cork.
-I conduct research within the fields of **Recommender Systems** and **Music Information Retrieval**, supervised
-by prof. [Derek Bridge](http://www.cs.ucc.ie/~dgb/).
-
-I have a **M.Sc.** in Computer Science and Engineering from Politecnico di Milano and a **B.Sc.** in Computer Engineering from Università degli studi di Perugia.
-
 # Research
 
-> The paper **Play It Again, Sam! Recommending Familiar Music in Fresh Ways**, authored by me and [Derek Bridge](http://www.cs.ucc.ie/~dgb/), was accepted as LBR at RecSys 2021!
+## Current position
+**PhD student** at University College Cork (UCC) 🇮🇪 . Supervisor: [Derek Bridge](http://www.cs.ucc.ie/~dgb/).</br>
 
-> The paper **Generating Interesting Song-to-Song Segues With Dave**, authored by me and [Derek Bridge](http://www.cs.ucc.ie/~dgb/), have won the [James Chen Best Student Paper Award](https://www.um.org/awards/james-chen-best-student-paper-awards) at UMAP 2021!
+## Past positions
+- **Intern** at [Deezer research](https://research.deezer.com) 🇫🇷 . Supervisors: [Elena Epure](https://scholar.google.nl/citations?hl=en&user=a9cchKAAAAAJ&view_op=list_works&sortby=pubdate) and [Romain Hennequin](http://romain-hennequin.fr).
+- **M.Sc. student** in Computer Science and Engineering in [Politecnico di Milano](https://www.polimi.it) 🇮🇹 . Thesis supervisor: [Paolo Cremonesi](https://paolocremonesi.faculty.polimi.it).
 
-## Projects
-- Narratives for Music Information Retrieval: [Click](/projects#narratives);
-- Recommender systems and instability: [Click](/projects#instability).
+## Interests
+- Recommender systems;
+- Music information retrieval.
 
-And, **that's not it**! Browse all my projects [here](/projects#past).
+## Recognition
+- Won the **best paper award '21** within the school of computer science in *UCC*;
+- Won the **James Chen best student paper award** at <i>UMAP '21</i>;
+- Served in the **program commitee** of 2nd Workshop on NLP for Music and Spoken Audio (<i>NLP4MuSA '21</i>), co-located with <i>ISMIR '21</i>;
+- Ranked **10**$^{th}$ in the RecSys Challenge 2019 (575 teams participating).
 
 ## Selected publications
-- **Giovanni Gabbolini** and Derek Bridge. 2021. **Generating Interesting Song-to-Song Segues With Dave**. In <i>Proceedings of the 29th ACM Conference on User Modeling, Adaptation and Personalization</i> (<i>UMAP '21</i>). DOI: [https://doi.org/10.1145/3450613.3456819](https://doi.org/10.1145/3450613.3456819). <b>James Chen Best Student Paper Award;</b>
-- **Giovanni Gabbolini** and Derek Bridge. 2021. **Play It Again, Sam! Recommending Familiar Music in Fresh Ways**. In Fifteenth ACMConference on Recommender Systems (<i>RecSys ’21</i>). DOI: [https://doi.org/10.1145/3460231.3478866](https://doi.org/10.1145/3460231.3478866);
-- **Giovanni Gabbolini** and Derek Bridge. 2021. **An Interpretable Music Similarity Measure Based on Path Interestingness**, in Proc. of the 22nd Int. Society for Music Information Retrieval Conf. (<i>ISMIR ’21</i>).
+- **Giovanni Gabbolini** and Derek Bridge. 2021. [Generating Interesting Song-to-Song Segues With Dave](https://doi.org/10.1145/3450613.3456819). In *UMAP '21*;
+
+- **Giovanni Gabbolini** and Derek Bridge. 2021. [Play It Again, Sam! Recommending Familiar Music in Fresh Ways](https://doi.org/10.1145/3460231.3478866). In *RecSys '21*;
+
+- **Giovanni Gabbolini** and Derek Bridge. 2021. [An Interpretable Music Similarity Measure Based on Path Interestingness](https://archives.ismir.net/ismir2021/paper/000026.pdf). In <i>ISMIR ’21</i>.
 
 Browse all my publications [here](https://scholar.google.com/citations?user=w3lc7mYAAAAJ&hl=it&oi=ao).
 
+## Projects
+- Explainability of music playlists: [Click](/research#narratives);
+- Recommender systems and instability: [Click](/research#instability).
 
-## Recognition
-- I won the **James Chen Best Student Paper Award** at <i>UMAP '21</i>;
-- I **served in the Program Commitee** of 2nd Workshop on NLP for Music and Spoken Audio (<i>NLP4MuSA '21</i>),co-located with <i>ISMIR '21</i>;
-- My team ranked in the **$10^{th}$ position over $575$** teams in the RecSys Challenge 2019.
+Browse all my research projects [here](/research#past).
+
+# News
+
+22/02/2022: I won the best paper award '21 within the school of computer science in UCC.
+
+31/07/2021: I have a paper accepted in the [Journal of Intelligent Information Systems](https://www.springer.com/journal/10844): [Analyzing and Improving Stability of Matrix Factorization for Recommender Systems](https://link.springer.com/article/10.1007/s10844-021-00686-1).
+
+22/09/2021: I will join [Deezer research](https://research.deezer.com) in Paris for a research intership, where I will work under [Elena Epure](https://scholar.google.nl/citations?hl=en&user=a9cchKAAAAAJ&view_op=list_works&sortby=pubdate) and [Romain Hennequin](http://romain-hennequin.fr) on playlist captioning.
+
+31/07/2021: I have a paper accepted as a LBR at [RecSys '21](https://recsys.acm.org/recsys21/): [Play It Again, Sam! Recommending Familiar Music in Fresh Ways](https://doi.org/10.1145/3460231.3478866).
+
+10/07/2021: I have a paper accepted at [ISMIR '21](https://ismir2021.ismir.net): [An Interpretable Music Similarity Measure Based on Path Interestingness](https://archives.ismir.net/ismir2021/paper/000026.pdf).
+
+23/06/2021: I won the [James Chen best student paper award](https://www.um.org/index.php/awards/james-chen-best-student-paper-awards) at [UMAP '21](https://www.um.org/umap2021/).
+
+13/06/2021: My research has made its radio debut on BCC Radio 6. [Listen back](files/live.mp3).
+
+01/06/2021: I have a paper accepted at ([UMAP '21](https://www.um.org/umap2021/)): [Generating Interesting Song-to-Song Segues With Dave](https://dl.acm.org/doi/pdf/10.1145/3450613.3456819).
+
+21/11/2020: I have a paper accepted at the Symposium of Applied Computing ([SAC](https://recsystrack.wordpress.com/category/2021/)): [On the instability of embeddings for recommender systems: the case of Matrix Factorization](https://dl.acm.org/doi/pdf/10.1145/3412841.3442011).
+
+05/09/2019: I have a paper accepted at the [RecSys Challenge Workshop](https://recsys.acm.org/recsys19/challenge/): [Leveraging laziness, Browsing-Pattern Aware Stacked Models for Sequential Accommodation Learning to Rank](https://dl.acm.org/doi/pdf/10.1145/3359555.3359563).
