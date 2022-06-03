@@ -1,21 +1,19 @@
 ---
 permalink: /
-title: "About me"
-excerpt: "About me"
+title: "Research"
+excerpt: "Research"
 author_profile: true
 redirect_from:
   - /about/
   - /about.html
 ---
 
-# Research
-
 ## Current position
-**PhD student** at University College Cork (UCC) 🇮🇪 . Supervisor: [Derek Bridge](http://www.cs.ucc.ie/~dgb/).</br>
+**PhD student** at University College Cork (UCC) 🇮🇪 Supervisor: [Derek Bridge](http://www.cs.ucc.ie/~dgb/).
 
 ## Past positions
-- **Intern** at [Deezer research](https://research.deezer.com) 🇫🇷 . Supervisors: [Elena Epure](https://scholar.google.nl/citations?hl=en&user=a9cchKAAAAAJ&view_op=list_works&sortby=pubdate) and [Romain Hennequin](http://romain-hennequin.fr).
-- **M.Sc. student** in Computer Science and Engineering in [Politecnico di Milano](https://www.polimi.it) 🇮🇹 . Thesis supervisor: [Paolo Cremonesi](https://paolocremonesi.faculty.polimi.it).
+- **Intern** at [Deezer research](https://research.deezer.com) 🇫🇷 Supervisors: [Elena Epure](https://scholar.google.nl/citations?hl=en&user=a9cchKAAAAAJ&view_op=list_works&sortby=pubdate) and [Romain Hennequin](http://romain-hennequin.fr).
+- **M.Sc. student** in Computer Science and Engineering in [Politecnico di Milano](https://www.polimi.it) 🇮🇹 Thesis supervisor: [Paolo Cremonesi](https://paolocremonesi.faculty.polimi.it).
 
 ## Interests
 - Recommender systems;

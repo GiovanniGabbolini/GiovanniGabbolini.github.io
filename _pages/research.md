@@ -1,6 +1,6 @@
 ---
 permalink: /research
-title: ""
+title: "Research projects"
 excerpt: "Research projects"
 author_profile: true
 ---
