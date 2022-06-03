@@ -20,9 +20,9 @@ redirect_from:
 - Music information retrieval.
 
 ## Recognition
-- Won the **best paper award '21** within the school of computer science in *UCC*;
-- Won the **James Chen best student paper award** at <i>UMAP '21</i>;
-- Served in the **program commitee** of 2nd Workshop on NLP for Music and Spoken Audio (<i>NLP4MuSA '21</i>), co-located with <i>ISMIR '21</i>;
+- Won the best paper award '21 within the school of computer science in UCC;
+- Won the [James Chen best student paper award](https://www.um.org/index.php/awards/james-chen-best-student-paper-awards) at [UMAP '21](https://www.um.org/umap2021/);
+- Served in the **program commitee** of 2nd Workshop on NLP for Music and Spoken Audio ([NLP4MuSA '21](https://sites.google.com/view/nlp4musa-2021)), co-located with [ISMIR '21](https://ismir2021.ismir.net);
 - Ranked **10**$^{th}$ in the RecSys Challenge 2019 (575 teams participating).
 
 ## Selected publications
@@ -44,7 +44,7 @@ Browse all my research projects [here](/research#past).
 
 22/02/2022: I won the best paper award '21 within the school of computer science in UCC.
 
-31/07/2021: I have a paper accepted in the [Journal of Intelligent Information Systems](https://www.springer.com/journal/10844): [Analyzing and Improving Stability of Matrix Factorization for Recommender Systems](https://link.springer.com/article/10.1007/s10844-021-00686-1).
+31/07/2021: I have a paper accepted in the [JIIS](https://www.springer.com/journal/10844): [Analyzing and Improving Stability of Matrix Factorization for Recommender Systems](https://link.springer.com/article/10.1007/s10844-021-00686-1).
 
 22/09/2021: I will join [Deezer research](https://research.deezer.com) in Paris for a research intership, where I will work under [Elena Epure](https://scholar.google.nl/citations?hl=en&user=a9cchKAAAAAJ&view_op=list_works&sortby=pubdate) and [Romain Hennequin](http://romain-hennequin.fr) on playlist captioning.
 
@@ -56,8 +56,8 @@ Browse all my research projects [here](/research#past).
 
 13/06/2021: My research has made its radio debut on BCC Radio 6. [Listen back](files/live.mp3).
 
-01/06/2021: I have a paper accepted at ([UMAP '21](https://www.um.org/umap2021/)): [Generating Interesting Song-to-Song Segues With Dave](https://dl.acm.org/doi/pdf/10.1145/3450613.3456819).
+01/06/2021: I have a paper accepted at [UMAP '21](https://www.um.org/umap2021/): [Generating Interesting Song-to-Song Segues With Dave](https://dl.acm.org/doi/pdf/10.1145/3450613.3456819).
 
-21/11/2020: I have a paper accepted at the Symposium of Applied Computing ([SAC](https://recsystrack.wordpress.com/category/2021/)): [On the instability of embeddings for recommender systems: the case of Matrix Factorization](https://dl.acm.org/doi/pdf/10.1145/3412841.3442011).
+21/11/2020: I have a paper accepted at [SAC](https://recsystrack.wordpress.com/category/2021/): [On the instability of embeddings for recommender systems: the case of Matrix Factorization](https://dl.acm.org/doi/pdf/10.1145/3412841.3442011).
 
 05/09/2019: I have a paper accepted at the [RecSys Challenge Workshop](https://recsys.acm.org/recsys19/challenge/): [Leveraging laziness, Browsing-Pattern Aware Stacked Models for Sequential Accommodation Learning to Rank](https://dl.acm.org/doi/pdf/10.1145/3359555.3359563).
